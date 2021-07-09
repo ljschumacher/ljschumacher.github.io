@@ -14,9 +14,39 @@ dan:
     image: /img/people/DanTudor.png
     bio: Research Assistant
 
+eric:
+    display_name: "Eric Latorre Crespo"
+    webpage: "https://www.ed.ac.uk/profile/eric-latorre-crespo"
+    role: postdoc
+    image: /img/people/eric.jpg
+    bio: Cross-Disciplinary Fellow, co-advised with Tamir Chandra, Kristina Kirschner, Arno Onken
+
+lucy:
+    display_name: "Lucy Martin"
+    role: postdoc
+    image: /img/people/lucy.jpg
+    bio: Cross-Disciplinary Fellow, co-advised with Tamir Chandra, Steve Pollard, Anthony Chalmers
+
 rodrigo:
     display_name: "Rodrigo García"
     webpage: "https://twitter.com/RorroAGarcia"
     role: grad
     image: /img/people/RodrigoPicture.png
-    bio: Ph.D. student, co-supervised by Ramon Grima
+    bio: Development of mathematical tools for identifying hallmarks of regulatory mechanisms in stem cell lineages (co-supervised by Ramon Grima)
+
+viktoria:
+    display_name: "Viktoria Freingruber"
+    role: grad
+    image: /img/people/viktoria.jpg
+    bio: Collective chemotaxis – how cells work together to migrate more efficiently (co-supervised with Kevin Painter, Mariya Ptashnyk)
+
+miguel:
+    display_name: "Miguel Robles Garcia"
+    role: grad
+    image: /img/people/miguel.jpg
+    bio: Forward engineering of pattern formation – Models and experiments towards predictive multicellular self-organisation (co-supervised with Guillaume Blin)
+
+anna:
+    display_name: "Anna Popravko"
+    role: grad
+    bio: Defining the transcriptome of the first functional haematopoietic stem cells in the mouse embryo (co-supervised with Elaine Dzierzak)
