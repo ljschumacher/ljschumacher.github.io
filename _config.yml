@@ -11,7 +11,7 @@ permalink: /blog/:year/:month/:day/:title.html
 
 # Sections on the "people" page.
 roles:
-  - key: PI
+  - key: faculty
     name: Principal Investigator
   - key: postdoc
     name: Researchers

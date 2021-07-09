@@ -3,7 +3,7 @@ linus:
     display_name: "Linus Schumacher"
     webpage: "https://www.ed.ac.uk/profile/linus-schumacher"
     github: ljschumacher
-    role: pi
+    role: faculty
     image: /img/people/linus.jpg
     bio: Group Leader
 
@@ -17,6 +17,6 @@ dan:
 rodrigo:
     display_name: "Rodrigo García"
     webpage: "https://twitter.com/RorroAGarcia"
-    role: phd
+    role: grad
     image: /img/people/RodrigoPicture.png
     bio: Ph.D. student, co-supervised by Ramon Grima
