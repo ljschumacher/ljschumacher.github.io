@@ -13,3 +13,10 @@ dan:
     role: postdoc
     image: /img/people/DanTudor.png
     bio: Research Assistant
+
+rodrigo:
+    display_name: "Rodrigo García"
+    webpage: "https://twitter.com/RorroAGarcia"
+    role: phd
+    image: /img/people/RodrigoPicture.png
+    bio: Ph.D. student, co-supervised by Ramon Grima
