@@ -49,4 +49,5 @@ miguel:
 anna:
     display_name: "Anna Popravko"
     role: grad
+    image: /img/people/anna.jpeg
     bio: Defining the transcriptome of the first functional haematopoietic stem cells in the mouse embryo (co-supervised with Elaine Dzierzak)
